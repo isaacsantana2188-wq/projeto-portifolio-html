@@ -1,17 +1,17 @@
-.section {
+.main-section {
 background-color:royalblue;
 padding-top: 50px;
 padding-bottom: 100px;
 border-bottom: 10px solid midnightblue;
 }
-.section .main-title { 
+.main-section .main-title { 
     margin-bottom: 60px
 }
 
-.section.-bgblack {
+.main-section.-bgblack {
     background-color: black;
 }
 
-.section.-bdFirst {
+.main-section.-bdFirst {
     border-color: midnightblue;
 }
